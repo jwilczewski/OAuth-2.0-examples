@@ -1,6 +1,5 @@
 package pl.consdata.test.oauth.config;
 
-import org.springframework.security.web.authentication.www.BasicAuthenticationFilter;
 import org.springframework.util.ClassUtils;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
